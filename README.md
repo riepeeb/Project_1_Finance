@@ -13,11 +13,11 @@
 # **Question 2: How has the 30-Year FMI Rate Changed?**
 #The data I pulled for this question is from FRED, from the past 5 years.  From this data, I was able to see how the FMI rate has quickly surpassed that of the pre-COVID rate.  I found the maximum value for pre-COVID and "post"-COVID.  Looking at the data further, it took over a year for the FMI rate to reach it's high pre-COVID, and it has now taken less than a year for it to go higher than that "post"-COVID.  Based on this data and my own thinking, I would guess that the rate at which Millennials are buying houses has slowed if not gone down. 
 #**Question 3: How has the 15-Year FMI Rate Changed?**
-# 
+# I collected data from FRED regarding the 15 Yr. FMI Rate over the past five years to compare to the 30 Yr. FMI Rate. These rates have both increased in similar fashion over the past 5 years. From increasing in 2019, plummeting in 2020 and then increasing as we get into 2023 and the impending recession. I took data from FRED and grouped together the monthly FMI rate averages into years and took the average of each year's FMI in order to get a more precise picture of the change over the last five years. 
 #**Question 4: What does the cost of Rent for Millennials look like over the past 5 years?**
-#
+# Cost of rent has gradually increased over the past five years, unlike interest rates that tend to move more with the change in the economy, the cost of rent has been stagnantly increasing. I grouped together cost of rent in the United States by year and then took the averages to show the gradual increase. It makes sense as we were in the pandemic for rent prices to be very high since cost of goods had likely increased. 
 #**Question 5: What do Expenses for Millennials look like over the past 5 years?**
-#
+# Expenses have increased gradually over the past five years then spking as we go into 2021. Expenses will be any purchase related to the cost of living. With rent increasing, expenses naturally increase, as rent is a part of expenses, but all other expenses increased as well. This could be a sign as to why more people wanted to buy homes as opposed to renting, if your rent is already high and your expenses, you may as well invest in somehting that could be yours. 
 #**Question 6: How has the number of Millennial Home Buyers Changed?**
 #The data for this question was pulled from FRED from the past 5 years.  Based on the data found, home buying has actually gone up more than I would've thought given the rising interest and FMI rates.  Home Buying in 2017 was just under 20,000 dropping around 500 in 2018, going back up in 2019 and 2020, then growing to be 3000 more than the low in 2018.  I came to the conclusion that even though rates are still going up, as the Millennial age group that we looked at grows older, they have more capital, and are therefore more likely to buy a home.  
 #**Conclusion:**
