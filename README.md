@@ -1,10 +1,10 @@
 # Project_1_Finance
-##Housing Market Analysis
- ###Hypothesis: The increase of Interest Rates will cause home buying by Millennials to decrease
-  ###Definitions in our Scope:
-   ###Millennial - a person aged 25-34
-   ###FFR - Federal Funds Rate
-   ###FMI - Fixed Mortgage Interest Rate
+#**Housing Market Analysis**
+ #Hypothesis: The increase of Interest Rates will cause home buying by Millennials to decrease
+  #Definitions in our Scope:
+   #Millennial - a person aged 25-34
+   #FFR - Federal Funds Rate
+   #FMI - Fixed Mortgage Interest Rate
 ##For our project, we wanted to look at how the housing market has changed in the over the past 5 years.  We are all iaround the age that home buying is on our minds, so we wanted to look at trends concerning interest rates.  
 #To do this, we first Googled questions we had (like how much the interest rate has changed) and tried to find data from the articles we found.  We also talked with people in our lives working in our chosen field of study about our proposal and took some suggestions from them on where to look or how to modify our scope (Shout out Kyle for helping us tighten up our definition of Millennial).  We also looked at the delveloper section on the Census Bureau and Federal Housing Administration, but after finding FRED (Federal Reserve Bank of St. Louis) and the data that site offered, we pulled our data sets from there
 #After finding our data, we broke it up into areas of interest, and started cleaning.  Most of our data sets had the information sorted how we needed, but we did have to change the Data Types for columns within our Data Frames or take Samples of the data.
