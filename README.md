@@ -1,11 +1,11 @@
-# Project_1_Finance
+# **Project_1_Finance**
 #**Housing Market Analysis**
  #Hypothesis: The increase of Interest Rates will cause home buying by Millennials to decrease
   #Definitions in our Scope:
    #Millennial - a person aged 25-34
    #FFR - Federal Funds Rate
    #FMI - Fixed Mortgage Interest Rate
-##For our project, we wanted to look at how the housing market has changed in the over the past 5 years.  We are all iaround the age that home buying is on our minds, so we wanted to look at trends concerning interest rates.  
+#For our project, we wanted to look at how the housing market has changed in the over the past 5 years.  We are all iaround the age that home buying is on our minds, so we wanted to look at trends concerning interest rates.  
 #To do this, we first Googled questions we had (like how much the interest rate has changed) and tried to find data from the articles we found.  We also talked with people in our lives working in our chosen field of study about our proposal and took some suggestions from them on where to look or how to modify our scope (Shout out Kyle for helping us tighten up our definition of Millennial).  We also looked at the delveloper section on the Census Bureau and Federal Housing Administration, but after finding FRED (Federal Reserve Bank of St. Louis) and the data that site offered, we pulled our data sets from there
 #After finding our data, we broke it up into areas of interest, and started cleaning.  Most of our data sets had the information sorted how we needed, but we did have to change the Data Types for columns within our Data Frames or take Samples of the data.
 # **Question 1: How has the Federal Interest Rate Changed?**
@@ -18,7 +18,7 @@
 #Cost of rent has gradually increased over the past five years, unlike interest rates that tend to move more with the change in the economy, the cost of rent has been stagnantly increasing. I grouped together cost of rent in the United States by year and then took the averages to show the gradual increase. It makes sense as we were in the pandemic for rent prices to be very high since cost of goods had likely increased. 
 #**Question 5: What do Expenses for Millennials look like over the past 5 years?**
 #Expenses have increased gradually over the past five years then spking as we go into 2021. Expenses will be any purchase related to the cost of living. With rent increasing, expenses naturally increase, as rent is a part of expenses, but all other expenses increased as well. This could be a sign as to why more people wanted to buy homes as opposed to renting, if your rent is already high and your expenses, you may as well invest in somehting that could be yours. 
-#**Question 6: How has the number of Millennial Home Buyers Changed?**
-#The data for this question was pulled from FRED from the past 5 years.  Based on the data found, home buying has actually gone up more than I would've thought given the rising interest and FMI rates.  Home Buying in 2017 was just under 20,000 dropping around 500 in 2018, going back up in 2019 and 2020, then growing to be 3000 more than the low in 2018.  I came to the conclusion that even though rates are still going up, as the Millennial age group that we looked at grows older, they have more capital, and are therefore more likely to buy a home.  
+#**Question 6: How has the Value of Millennial Houses Change?**
+#The data for this question was pulled from FRED from the past 5 years.  Based on the data found, home values have gone up quite a bit.   Even though it is now costing more to spend more - meaning that because FED and FMI rates have both gone up, it is costing more to borrow, which means that mortgages and mortgage payments are going to go up.  The max home value has also gone up around $3,000 in 3 years
 #**Conclusion:**
-#Tying in Rilee's data on Rent prices, as those are rising as well, it makes sense that one would want to put that money towards a home that they might out-right own one day.  With more home owners in the dataset in 2021 it also makes sense that the amount of expenses would go up, higher taxes, mortgages are going up, and the costs of goods and services needed to maintain an entire home are going to be greater than what it would cost to rent a one bedroom apartment.
+#Tying in Rilee's data on Rent prices, as those are rising as well, it makes sense that one would want to put that money towards a home that they might out-right own one day.  With home values on the rise it also makes sense that the amount of expenses would go up, higher taxes, mortgages are going up, and the costs of goods and services needed to maintain an entire home are going to be greater than what it would cost to rent a one bedroom apartment.
